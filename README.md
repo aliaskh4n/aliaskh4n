@@ -1,4 +1,4 @@
-# 👋 Привет, я [Ваше Имя]
+# 👋 Привет, я [Aliaskhan]
 
 ## 💻 Web Разработчик | Python | Flask | HTML | CSS
 
@@ -26,8 +26,8 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=вашлогин&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=вашлогин&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernamealiaskh4n=&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaskh4n&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
@@ -36,10 +36,10 @@
 
 <div align="center">
   <a href="https://github.com/вашлогин/проект1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=вашлогин&repo=проект1&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliaskh4n&repo=проект1&theme=radical" />
   </a>
   <a href="https://github.com/вашлогин/проект2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=вашлогин&repo=проект2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliaskh4n&repo=проект2&theme=radical" />
   </a>
 </div>
 
@@ -62,4 +62,4 @@
 
 ---
 
-⭐️ От [ваше имя](https://github.com/вашлогин)
+⭐️ От [Aliaskhan](https://github.com/aliaskh4n)
