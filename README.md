@@ -112,8 +112,7 @@ class Developer:
 ## Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliaskh4n&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=333333" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=aliaskh4n&hide_border=true&background=ffffff&stroke=f0f0f0&ring=333333&fire=333333&currStreakNum=333333&sideNums=333333&currStreakLabel=333333&sideLabels=333333&dates=333333" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliaskh4n&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=333333" alt="GitHub Stats" width="60%" />
 </div>
 
 <div align="center">
