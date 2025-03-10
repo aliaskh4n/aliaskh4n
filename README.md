@@ -99,7 +99,7 @@ class Developer:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliaskh4n&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=aliaskh4n&theme=dark&hide_border=true&background=0d1117&ring=0066ff&fire=0066ff" alt="GitHub Streak" width="49%" />
+  <img src="[https://streak-stats.demolab.com/?user=aliaskh4n&theme=dark&hide_border=true&background=0d1117&ring=0066ff&fire=0066ff](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aliaskh4n&locale=ru&date_format=j%2Fn%5B%2FY%5D)" alt="GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
