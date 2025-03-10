@@ -123,6 +123,9 @@ class Developer:
   <a href="https://github.com/aliaskh4n/Easily">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliaskh4n&repo=Easily&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=333333" alt="Easily" />
   </a>
+  <a href="https://github.com/aliaskh4n/Flet-Chat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliaskh4n&repo=Flet-Chat&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=333333" alt="Flet-Chat" >
+  </a>
 </div>
 
 <br>
