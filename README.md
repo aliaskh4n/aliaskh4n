@@ -112,8 +112,8 @@ class Developer:
 ## Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliaskh4n&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=333333" alt="GitHub Stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaskh4n&layout=compact&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliaskh4n&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=333333&text_color=333333&icon_color=333333" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaskh4n&layout=compact&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333&card_width=445" alt="Top Languages" width="45%" />
 </div>
 
 <br>
