@@ -99,7 +99,6 @@ class Developer:
         <h3 align="center">Изучаю</h3>
         <div align="center">
           <img width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" />
-          <img width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" />
           <img width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
         </div>
       </td>
