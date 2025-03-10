@@ -1,4 +1,4 @@
-# 👋 Привет, я [Aliaskhan]
+# 👋 Привет, я Aliaskhan
 
 ## 💻 Web Разработчик | Python | Flask | HTML | CSS
 
@@ -36,10 +36,7 @@
 
 <div align="center">
   <a href="https://github.com/вашлогин/проект1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliaskh4n&repo=проект1&theme=radical" />
-  </a>
-  <a href="https://github.com/вашлогин/проект2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliaskh4n&repo=проект2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aliaskh4n&repo=Easily&theme=radical" />
   </a>
 </div>
 
