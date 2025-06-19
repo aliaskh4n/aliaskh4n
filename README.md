@@ -34,7 +34,7 @@ class Developer:
         self.specialization = "Web Applications & DevOps"
         self.stack = {
             "languages": ["Python", "JavaScript", "HTML", "CSS"],
-            "backend": ["Flask", "Django"],
+            "backend": ["Flask"],
             "server": ["Linux", "Nginx", "Apache"],
             "devops": ["Docker", "Git", "CI/CD"],
             "databases": ["PostgreSQL", "SQLite", "MySQL"]
