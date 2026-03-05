@@ -76,5 +76,5 @@ Backend-проект на Python.
 
 ## 📫 Контакты
 
-- Telegram: https://t.me/al1askh4n
+- Telegram: https://t.me/aliaskhan
 - GitHub: https://github.com/aliaskh4n
